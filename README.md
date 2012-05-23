@@ -1,13 +1,19 @@
-Store and access your passwords like a Boss!
+A password manager for nerds
 ====
 
-Are you a nerd?
+It's just for nerds?
 ---
+Uhm, maybe:
 * Only command line version
 * Pluggable
+* Some cool modules
 
+Modules Available
+---
+No one
 
-Modules available
+Planned modules
 ---
 * Plain text format
 * [Revelation]( http://oss.codepoet.no/revelation/wiki/Home )
+* Steganography
