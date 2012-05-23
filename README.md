@@ -1,7 +1,11 @@
 A password manager for nerds
 ====
 
-It's just for nerds?
+Is it ready?
+---
+Nope! It is just at the beginning
+
+Is it just for nerds?
 ---
 Uhm, maybe:
 * Only command line version
@@ -10,7 +14,7 @@ Uhm, maybe:
 
 Modules Available
 ---
-No one
+No one (I told you it is just at the beginning..)
 
 Planned modules
 ---
